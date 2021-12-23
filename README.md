@@ -13,18 +13,18 @@ The list of commands are-
 1. Clone this repository in your local environment.
 2. Go to command line terminal, (refer either a or b)- 
 
-    a. Switch to the required directory and run following commands-
-        ```
-        fsys organize
-        fsys tree
-        fsys help
-        ```
-    b. Copy the path of the required directory and run following commands in any directory-
-        ```
-        fsys organize <dirpath>
-        fsys tree <dirpath>
-        fsys help
-        ```
+    * Switch to the required directory and run following commands-
+        
+        `fsys organize
+        `fsys tree
+        `fsys help
+        
+    * Copy the path of the required directory and run following commands in any directory-
+        
+        `fsys organize <dirpath>
+        `fsys tree <dirpath>
+        `fsys help
+        
 
 
 ### Important points-
