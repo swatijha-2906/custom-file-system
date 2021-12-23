@@ -15,15 +15,15 @@ The list of commands are-
 
     * Switch to the required directory and run following commands-
         
-        `fsys organize
-        `fsys tree
-        `fsys help
+        `fsys organize`
+        `fsys tree`
+        `fsys help`
         
     * Copy the path of the required directory and run following commands in any directory-
         
-        `fsys organize <dirpath>
-        `fsys tree <dirpath>
-        `fsys help
+        `fsys organize <dirpath>`
+        `fsys tree <dirpath>`
+        `fsys help`
         
 
 
